@@ -1773,9 +1773,9 @@ namespace PRG_281_Project
             System.Threading.Thread.Sleep(400);
             Console.Clear();
             Console.WriteLine("Group Members: ");
-            Console.WriteLine("Henri Claassen 601720");
-            Console.WriteLine("Dante Coshiwe - 602724");
-            Console.WriteLine("Masilo Pudikabekwa - 603037");
+            Console.WriteLine("Henri Claassen");
+            Console.WriteLine("Dante Coshiwe");
+            Console.WriteLine("Masilo Pudikabekwa");
             System.Threading.Thread.Sleep(4000);
 
             Console.WriteLine("\nClosing...");
