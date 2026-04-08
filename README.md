@@ -4,69 +4,47 @@ A C# console application designed to manage animals, owners, employees, and medi
 
 ✨ Features
 
-Loading Animations: Circle and percentage-based loading bars for a polished startup experience.
+   Loading Animations: Circle and percentage-based loading bars for a polished startup experience.
 
-Login Page: Secure login system with hidden password input.
+   Login Page: Secure login system with hidden password input.
 
-Default credentials: Username: Test | Password: 123
+   Default credentials: Username: Test | Password: 123
 
-Navigation Menus: Interactive console menus with arrow-key navigation.
+   Navigation Menus: Interactive console menus with arrow-key navigation.
 
-Animal Management:
+   Animal Management: Add new animals (Mammals, Reptiles, Birds, Water Animals), View all animals, Search animals by ID
 
-Add new animals (Mammals, Reptiles, Birds, Water Animals)
+   Owner Management: Add and view owners, Link animals to owners
 
-View all animals
+   Medical Inventory: View medication inventory, Add or remove stock, Search medications
 
-Search animals by ID
+   Dosage Calculation: Automatically calculate medication dosage based on animal weight.
 
-Owner Management:
+   Employee Management: Add employees (Vet, Manager, Assistant Nurse), Calculate employee salaries
 
-Add and view owners
+   Login Management: Add new login credentials.
 
-Link animals to owners
+   Appointment Management: Create, reschedule, cancel, and view appointments for animals.
 
-Medical Inventory:
-
-View medication inventory
-
-Add or remove stock
-
-Search medications
-
-Dosage Calculation: Automatically calculate medication dosage based on animal weight.
-
-Employee Management:
-
-Add employees (Vet, Manager, Assistant Nurse)
-
-Calculate employee salaries
-
-Login Management: Add new login credentials.
-
-Appointment Management:
-
-Create, reschedule, cancel, and view appointments for animals.
-
-Exit Animations: Smooth exit with animations for a professional finish.
+   Exit Animations: Smooth exit with animations for a professional finish.
 
 📚 Technologies Used
 
-C#
+   C#
 
-.NET Framework
+   .NET Framework
 
-Object-Oriented Programming (OOP)
+   Object-Oriented Programming (OOP)
 
-Console-based UI
+   Console-based UI
 
 🚀 Future Improvements
 
-Add persistent storage (database or file system).
+   Add persistent storage (database or file system).
 
-Enhance user interface with better formatting.
+   Enhance user interface with better formatting.
 
-Implement role-based access control for employees.
+   Implement role-based access control for employees.
 
 ⚠️ Important Notes
 
