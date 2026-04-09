@@ -54,7 +54,7 @@ Console Application: This project is intended for educational use and demonstrat
 
 🛠️ Installation Instructions
 1. Clone the repository using github desktop or bash:
-   Bash: git clone https://github.com/Henri-Claassen/OOP_Project.git
+   Bash: git clone https://github.com/Henri-Claassen/Vet_Clinic_Project.git
 2. Open the project in visual studio or your preferred IDE.
 3. For visual studio, launch visual studio open the solution and select the .sln file
 4. Select the program.cs
