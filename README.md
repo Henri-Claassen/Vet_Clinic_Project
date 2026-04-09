@@ -2,7 +2,7 @@
 
 A C# console application designed to manage animals, owners, employees, and medical inventory in a veterinary practice. This project demonstrates object-oriented programming concepts, interactive console menus, and user authentication.
 
-**✨ Features**
+##✨ Features
 
    Loading Animations: Circle and percentage-based loading bars for a polished startup experience.
 
@@ -28,7 +28,7 @@ A C# console application designed to manage animals, owners, employees, and medi
 
    Exit Animations: Smooth exit with animations for a professional finish.
 
-**📚 Technologies Used**
+##📚 Technologies Used
 
    C#
 
@@ -38,7 +38,7 @@ A C# console application designed to manage animals, owners, employees, and medi
 
    Console-based UI
 
-**🚀 Future Improvements**
+##🚀 Future Improvements
 
    Add persistent storage (database or file system).
 
@@ -46,13 +46,13 @@ A C# console application designed to manage animals, owners, employees, and medi
 
    Implement role-based access control for employees.
 
-**⚠️ Important Notes**
+##⚠️ Important Notes
 
 Sensitive Information: The default login credentials (Test / 123) are for demonstration purposes only. Do not use these in production environments.
 
 Console Application: This project is intended for educational use and demonstration of C# concepts.
 
-**🛠️ Installation Instructions**
+##🛠️ Installation Instructions
 
 1. Clone the repository using github desktop or bash:
    Bash: git clone https://github.com/Henri-Claassen/Vet_Clinic_Project.git
